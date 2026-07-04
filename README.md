@@ -32,6 +32,6 @@ over opinion.
 
 ### 🌐 Find me
 
-[cryptodiary.club](https://cryptodiary.club) · [getlyfe.xyz](https://getlyfe.xyz) · IG [@gin_theexplorer](https://instagram.com/gin_theexplorer)
+[cryptodiary.club](https://cryptodiary.club) · [getlyfe.xyz](https://getlyfe.xyz) · X [@gin_cryptodiary](https://x.com/gin_cryptodiary) · [@gin_theexplorer](https://x.com/gin_theexplorer) · IG [@gin_theexplorer](https://instagram.com/gin_theexplorer)
 
 <sub>Most of what I build runs as autonomous agents. Tools here are the pieces worth sharing.</sub>
